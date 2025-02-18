@@ -1,0 +1,8 @@
+baseURL = "https://bebo000.com"
+languageCode = "zh-TW"
+title = "你的 Shopee 推荐站"
+theme = "PaperMod"
+
+[params]
+description = "推荐最划算的 Shopee 商品！"
+keywords = ["Shopee", "好物推荐", "省钱攻略"]
